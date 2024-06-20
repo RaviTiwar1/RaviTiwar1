@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hey there! I'm Ravi Prakash Tiwari, currently a final-year Computer Science and Engineering student at KIIT Bhubaneshwar. Having a passion for exploring and learning new technologies, constantly seeking to expand my knowledge and skills.
 🔭 **I’m currently working on**:<br>   - Developing mobile applications using Kotlin and Flutter.<br>   - Implementing features for a news app using Jetpack Compose and integrating APIs.<br><br>👯 **I’m looking to collaborate on**:<br>   - Innovative app development projects.<br>   - Eco-friendly tech solutions and hackathons.<br><br>🤝 **I’m looking for help with**:<br>   - Advanced Android development techniques.<br>   - Enhancing user experience design.<br><br>🌱 **I’m currently learning**:<br>   - Coroutines and Flow for Android development.<br>   - Best practices in Agile project management.<br><br>💬 **Ask me about**:<br>   - App development with Kotlin.<br>   - My experience in leading hackathon teams.<br><br>⚡ **Fun fact**:<br>   - I led a team to victory in "The Matrix" hackathon at KIITFEST 7.0.<br><br>---
 
 
@@ -17,9 +18,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RaviTiwar1&icon=0&color=0)](https://visitcount.itsvg.in)
